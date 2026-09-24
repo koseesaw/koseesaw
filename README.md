@@ -209,8 +209,8 @@ My goal is to keep learning, build useful things, share what I discover, and hel
   <img src="https://img.shields.io/badge/GitHub-koseesaw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/https://www.linkedin.com/in/francesca-epundu-787134272?utm_source=share_via&utm_content=profile&utm_medium=member_ios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/francesca-epundu-787134272?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </p>
