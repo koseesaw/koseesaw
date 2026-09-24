@@ -74,10 +74,14 @@ My focus is on turning what I learn into practical skills through hands-on labs,
 ### Security & Networking
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nmap,wireshark,burpsuite,metasploit" alt="Security and networking tools">
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/VMware%20Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation">
 </p>
 
-> Some tools may not have dedicated icons on every icon service, so the skills listed above represent the technologies and tools I am developing practical experience with.
 
 ### Scripting & Automation
 
