@@ -191,30 +191,6 @@ Add a description of the learning resources or educational material here.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=koseesaw&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    alt="Koseesaw GitHub statistics"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koseesaw&layout=compact&hide_border=true&theme=github_dark"
-    alt="Koseesaw top programming languages"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=koseesaw&theme=github-dark-blue&hide_border=true"
-    alt="Koseesaw GitHub contribution streak"
-  />
-</p>
-
----
-
 ## 🧭 My Philosophy
 
 ### **Learn → Build → Secure → Share → Empower**
