@@ -213,18 +213,6 @@ My goal is to keep learning, build useful things, share what I discover, and hel
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="YOUR_X_TWITTER_URL">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
-</a>
-
-<a href="YOUR_PERSONAL_WEBSITE_URL">
-  <img src="https://img.shields.io/badge/Website-Visit-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Personal website">
-</a>
-
 </p>
 
 ---
